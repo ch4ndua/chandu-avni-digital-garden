@@ -8,12 +8,12 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at <span style="font-weight: bold">[[Your first note]]</span> to get started on your exploration.
+  Take a look at <span style="font-weight: bold">[Digital Garden's Guiding Principles](digital-garden-terms-of-service)</span> to get started on your exploration.
 </p>
 
-This digital garden template is free, open-source, and [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+Welcome to my digital garden! This is a place where I can share my learnings and grow my thoughts.
 
-The easiest way to get started is to read this [step-by-step guide explaining how to set this up from scratch](https://maximevaillancourt.com/blog/setting-up-your-own-digital-garden-with-jekyll).
+Learn more [about me](/about) or visit my [main website](https://chanduavni.com/).
 
 <strong>Recently updated notes</strong>
 
