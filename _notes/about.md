@@ -23,4 +23,4 @@ Ideas in a digital garden grow through writing and revising in public, which len
 ## Attribution
 This digital garden was set up using Maxime Vaillancourt's free, open-source template [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template). The template's source code is available under the [MIT license](/LICENSE).
 
-Read [[digital-garden-set-up]] to learn how I set up this site.
+Read [digital-garden-set-up]([[digital-garden-set-up]]) to learn how I set up this site.
