@@ -21,6 +21,6 @@ Digital gardens are a way to present ideas and information. The content in a dig
 Ideas in a digital garden grow through writing and revising in public, which lends itself to the concept of learning in public. ([Shawn Wang's "Learn In Public"](https://www.swyx.io/learn-in-public) elaborates on the benefits of learning in public.) 
 
 ## Attribution
-This digital garden was set up using Maxime Vaillancourt's free, open-source template [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template).
+This digital garden was set up using Maxime Vaillancourt's free, open-source template [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template). The template's source code is available under the [MIT license](/LICENSE).
 
-The template's source code is available under the [MIT license](/LICENSE).
+Read [[digital-garden-set-up]] to learn how I set up this site.
