@@ -1,4 +1,5 @@
 ---
+layout: page
 title: Digital Garden Terms of Service
 permalink: /digital-garden-tos
 ---
