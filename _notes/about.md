@@ -5,7 +5,7 @@ permalink: /about
 ---
 
 # About Me
-My name is Chandu Avni. I implement and service technology for entities with a positive impact. I'm an IT professional with industry and academic experience in social robotics, privacy, and responsible technology research.
+My name is Chandu Avni. I am a technologist with a passion for using technology to create a positive impact. As an IT professional, I implement, service, and develop technology solutions. My academic and industry experience spans social robotics, privacy, and responsible technology research. 
 
 Visit my [main website](https://chanduavni.com/) or connect with me on [LinkedIn](https://linkedin.com/in/chanduavni) to learn more about me and my experience.
 
