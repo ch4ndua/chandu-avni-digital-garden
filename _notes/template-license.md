@@ -1,4 +1,4 @@
-# License
+# Template License
 This digital garden was set up using Maxime Vaillancourt's free, open-source template [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template). The template's source code is available under the [MIT license](https://github.com/maximevaillancourt/digital-garden-jekyll-template/blob/main/LICENSE).
 
 ## Released under MIT License
