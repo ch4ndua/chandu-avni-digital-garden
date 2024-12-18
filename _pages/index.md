@@ -8,7 +8,7 @@ permalink: /
 # Welcome! 🌱
 
 <p style="padding: 3em 1em; background: #f5f7ff; border-radius: 4px;">
-  Take a look at this <span style="font-weight: bold"><a href="/_notes/digital-garden-terms-of-service.md">Digital Garden's Guiding Principles</a></span> to get started on your exploration.
+  Take a look at this <span style="font-weight: bold"><a href="https://notes.chanduavni.com/digital-garden-tos">Digital Garden's Guiding Principles</a></span> to get started on your exploration.
 </p>
 
 Welcome to my digital garden! My name is Chandu Avni. This is a place where I can share my learnings and grow my thoughts.
