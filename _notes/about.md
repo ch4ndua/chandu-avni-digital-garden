@@ -5,9 +5,15 @@ permalink: /about
 ---
 
 # About Me
-My name is Chandu Avni. I'm an IT professional with industry and academic experience in social robotics, privacy, and responsible technology research.
+My name is Chandu Avni. I implement and service technology for entities with a positive impact. I'm an IT professional with industry and academic experience in social robotics, privacy, and responsible technology research.
 
 Visit my [main website](https://chanduavni.com/) or connect with me on [LinkedIn](https://linkedin.com/in/chanduavni) to learn more about me and my experience.
+
+You can also find me at:
+- [GitHub](https://github.com/ch4ndua)
+- [GitLab](https://gitlab.com/ch4ndua)
+- [Mastodon](https://mastodon.social/@chandua)
+- [ORCID](https://orcid.org/0009-0004-8746-1834)
 
 # About This Digital Garden
 When I was setting up my [main website](https://chanduavni.com/), I knew I wanted a place to share my learnings, experiences, and thoughts.
@@ -21,6 +27,6 @@ Digital gardens are a way to present ideas and information. The content in a dig
 Ideas in a digital garden grow through writing and revising in public, which lends itself to the concept of learning in public. ([Shawn Wang's "Learn In Public"](https://www.swyx.io/learn-in-public) elaborates on the benefits of learning in public.) 
 
 ## Attribution
-This digital garden was set up using Maxime Vaillancourt's free, open-source template [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template). The template's source code is available under the [MIT license](/LICENSE).
+This digital garden was set up using Maxime Vaillancourt's free, open-source template [available on GitHub here](https://github.com/maximevaillancourt/digital-garden-jekyll-template). The template's source code is available under the [MIT license](/_notes/template-license.md).
 
 Read [this set up note](digital-garden-set-up) to learn how I set up this site.
